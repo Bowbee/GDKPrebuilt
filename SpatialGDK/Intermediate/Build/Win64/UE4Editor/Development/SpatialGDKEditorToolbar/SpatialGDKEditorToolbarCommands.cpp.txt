@@ -1,0 +1,8 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKEditorToolbar\Definitions.SpatialGDKEditorToolbar.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditorToolbar\Public\SpatialGDKEditorToolbarCommands.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditorToolbar\Public\SpatialGDKEditorToolbarStyle.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h

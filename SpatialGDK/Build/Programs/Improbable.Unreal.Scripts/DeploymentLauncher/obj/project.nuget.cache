@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "8H+kO7M1qcC35WbIAj/NV7RtlMYdWVBLKb74PoTsm4ci6N/10LWOBKkdR2Di8EorHbDfbKAdMwoZH2cv3YjaMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\DeploymentLauncher\\DeploymentLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thomas\\.nuget\\packages\\google.api.commonprotos\\1.1.0\\google.api.commonprotos.1.1.0.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\google.api.gax\\2.1.0\\google.api.gax.2.1.0.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\google.api.gax.grpc\\2.1.0\\google.api.gax.grpc.2.1.0.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\google.apis\\1.29.1\\google.apis.1.29.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\google.apis.auth\\1.29.1\\google.apis.auth.1.29.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\google.apis.core\\1.29.1\\google.apis.core.1.29.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\google.longrunning\\1.0.0\\google.longrunning.1.0.0.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\google.protobuf\\3.4.1\\google.protobuf.3.4.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\grpc.auth\\1.6.1\\grpc.auth.1.6.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\grpc.core\\1.6.1\\grpc.core.1.6.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\improbable.spatialos.platform\\13.7.1\\improbable.spatialos.platform.13.7.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\system.interactive.async\\3.1.1\\system.interactive.async.3.1.1.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\system.net.http\\4.3.1\\system.net.http.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

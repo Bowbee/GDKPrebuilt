@@ -1,0 +1,3 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKEditorCommandlet\Definitions.SpatialGDKEditorCommandlet.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditorCommandlet\Public\SpatialGDKEditorCommandletModule.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditorCommandlet\Private\SpatialGDKEditorCommandletPrivate.h

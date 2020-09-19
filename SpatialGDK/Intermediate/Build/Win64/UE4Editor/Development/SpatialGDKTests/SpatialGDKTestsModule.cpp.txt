@@ -1,0 +1,7 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKTests\Definitions.SpatialGDKTests.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKTests\Public\SpatialGDKTestsModule.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKServices\Public\LocalDeploymentManager.h
+D:\Dev\UnrealEngine\Engine\Source\Developer\DirectoryWatcher\Public\FileCache.h
+D:\Dev\UnrealEngine\Engine\Source\Developer\DirectoryWatcher\Public\IDirectoryWatcher.h
+D:\Dev\UnrealEngine\Engine\Source\Developer\DirectoryWatcher\Public\FileCacheUtilities.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKTests\Private\SpatialGDKTestsPrivate.h

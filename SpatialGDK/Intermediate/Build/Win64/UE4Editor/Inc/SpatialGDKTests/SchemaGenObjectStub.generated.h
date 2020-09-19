@@ -1,0 +1,1153 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+#include "Net/Core/PushModel/PushModelMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef SPATIALGDKTESTS_SchemaGenObjectStub_generated_h
+#error "SchemaGenObjectStub.generated.h already included, missing '#pragma once' in SchemaGenObjectStub.h"
+#endif
+#define SPATIALGDKTESTS_SchemaGenObjectStub_generated_h
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSchemaGenObjectStub(); \
+	friend struct Z_Construct_UClass_USchemaGenObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(USchemaGenObjectStub, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(USchemaGenObjectStub) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		IntValue=NETFIELD_REP_START, \
+		BoolValue, \
+		NETFIELD_REP_END=BoolValue	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override; \
+private: \
+	REPLICATED_BASE_CLASS(USchemaGenObjectStub) \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_INCLASS \
+private: \
+	static void StaticRegisterNativesUSchemaGenObjectStub(); \
+	friend struct Z_Construct_UClass_USchemaGenObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(USchemaGenObjectStub, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(USchemaGenObjectStub) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		IntValue=NETFIELD_REP_START, \
+		BoolValue, \
+		NETFIELD_REP_END=BoolValue	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override; \
+private: \
+	REPLICATED_BASE_CLASS(USchemaGenObjectStub) \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USchemaGenObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USchemaGenObjectStub) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USchemaGenObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USchemaGenObjectStub); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USchemaGenObjectStub(USchemaGenObjectStub&&); \
+	NO_API USchemaGenObjectStub(const USchemaGenObjectStub&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USchemaGenObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USchemaGenObjectStub(USchemaGenObjectStub&&); \
+	NO_API USchemaGenObjectStub(const USchemaGenObjectStub&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USchemaGenObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USchemaGenObjectStub); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USchemaGenObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_8_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_11_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class USchemaGenObjectStub>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSpatialTypeObjectStub(); \
+	friend struct Z_Construct_UClass_USpatialTypeObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(USpatialTypeObjectStub, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(USpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_INCLASS \
+private: \
+	static void StaticRegisterNativesUSpatialTypeObjectStub(); \
+	friend struct Z_Construct_UClass_USpatialTypeObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(USpatialTypeObjectStub, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(USpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USpatialTypeObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USpatialTypeObjectStub) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USpatialTypeObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USpatialTypeObjectStub); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USpatialTypeObjectStub(USpatialTypeObjectStub&&); \
+	NO_API USpatialTypeObjectStub(const USpatialTypeObjectStub&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USpatialTypeObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USpatialTypeObjectStub(USpatialTypeObjectStub&&); \
+	NO_API USpatialTypeObjectStub(const USpatialTypeObjectStub&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USpatialTypeObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USpatialTypeObjectStub); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_21_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_24_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class USpatialTypeObjectStub>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUChildOfSpatialTypeObjectStub(); \
+	friend struct Z_Construct_UClass_UChildOfSpatialTypeObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UChildOfSpatialTypeObjectStub, USpatialTypeObjectStub, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UChildOfSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_INCLASS \
+private: \
+	static void StaticRegisterNativesUChildOfSpatialTypeObjectStub(); \
+	friend struct Z_Construct_UClass_UChildOfSpatialTypeObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UChildOfSpatialTypeObjectStub, USpatialTypeObjectStub, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UChildOfSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UChildOfSpatialTypeObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UChildOfSpatialTypeObjectStub) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UChildOfSpatialTypeObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UChildOfSpatialTypeObjectStub); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UChildOfSpatialTypeObjectStub(UChildOfSpatialTypeObjectStub&&); \
+	NO_API UChildOfSpatialTypeObjectStub(const UChildOfSpatialTypeObjectStub&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UChildOfSpatialTypeObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UChildOfSpatialTypeObjectStub(UChildOfSpatialTypeObjectStub&&); \
+	NO_API UChildOfSpatialTypeObjectStub(const UChildOfSpatialTypeObjectStub&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UChildOfSpatialTypeObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UChildOfSpatialTypeObjectStub); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UChildOfSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_27_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_30_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class UChildOfSpatialTypeObjectStub>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUNotSpatialTypeObjectStub(); \
+	friend struct Z_Construct_UClass_UNotSpatialTypeObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UNotSpatialTypeObjectStub, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UNotSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_INCLASS \
+private: \
+	static void StaticRegisterNativesUNotSpatialTypeObjectStub(); \
+	friend struct Z_Construct_UClass_UNotSpatialTypeObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UNotSpatialTypeObjectStub, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UNotSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UNotSpatialTypeObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UNotSpatialTypeObjectStub) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UNotSpatialTypeObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNotSpatialTypeObjectStub); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UNotSpatialTypeObjectStub(UNotSpatialTypeObjectStub&&); \
+	NO_API UNotSpatialTypeObjectStub(const UNotSpatialTypeObjectStub&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UNotSpatialTypeObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UNotSpatialTypeObjectStub(UNotSpatialTypeObjectStub&&); \
+	NO_API UNotSpatialTypeObjectStub(const UNotSpatialTypeObjectStub&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UNotSpatialTypeObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNotSpatialTypeObjectStub); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UNotSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_33_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_36_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class UNotSpatialTypeObjectStub>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUChildOfNotSpatialTypeObjectStub(); \
+	friend struct Z_Construct_UClass_UChildOfNotSpatialTypeObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UChildOfNotSpatialTypeObjectStub, UNotSpatialTypeObjectStub, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UChildOfNotSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_INCLASS \
+private: \
+	static void StaticRegisterNativesUChildOfNotSpatialTypeObjectStub(); \
+	friend struct Z_Construct_UClass_UChildOfNotSpatialTypeObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UChildOfNotSpatialTypeObjectStub, UNotSpatialTypeObjectStub, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UChildOfNotSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UChildOfNotSpatialTypeObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UChildOfNotSpatialTypeObjectStub) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UChildOfNotSpatialTypeObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UChildOfNotSpatialTypeObjectStub); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UChildOfNotSpatialTypeObjectStub(UChildOfNotSpatialTypeObjectStub&&); \
+	NO_API UChildOfNotSpatialTypeObjectStub(const UChildOfNotSpatialTypeObjectStub&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UChildOfNotSpatialTypeObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UChildOfNotSpatialTypeObjectStub(UChildOfNotSpatialTypeObjectStub&&); \
+	NO_API UChildOfNotSpatialTypeObjectStub(const UChildOfNotSpatialTypeObjectStub&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UChildOfNotSpatialTypeObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UChildOfNotSpatialTypeObjectStub); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UChildOfNotSpatialTypeObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_39_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_42_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class UChildOfNotSpatialTypeObjectStub>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUNoSpatialFlagsObjectStub(); \
+	friend struct Z_Construct_UClass_UNoSpatialFlagsObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UNoSpatialFlagsObjectStub, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UNoSpatialFlagsObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_INCLASS \
+private: \
+	static void StaticRegisterNativesUNoSpatialFlagsObjectStub(); \
+	friend struct Z_Construct_UClass_UNoSpatialFlagsObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UNoSpatialFlagsObjectStub, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UNoSpatialFlagsObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UNoSpatialFlagsObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UNoSpatialFlagsObjectStub) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UNoSpatialFlagsObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNoSpatialFlagsObjectStub); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UNoSpatialFlagsObjectStub(UNoSpatialFlagsObjectStub&&); \
+	NO_API UNoSpatialFlagsObjectStub(const UNoSpatialFlagsObjectStub&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UNoSpatialFlagsObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UNoSpatialFlagsObjectStub(UNoSpatialFlagsObjectStub&&); \
+	NO_API UNoSpatialFlagsObjectStub(const UNoSpatialFlagsObjectStub&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UNoSpatialFlagsObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNoSpatialFlagsObjectStub); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UNoSpatialFlagsObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_45_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_48_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class UNoSpatialFlagsObjectStub>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUChildOfNoSpatialFlagsObjectStub(); \
+	friend struct Z_Construct_UClass_UChildOfNoSpatialFlagsObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UChildOfNoSpatialFlagsObjectStub, UNoSpatialFlagsObjectStub, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UChildOfNoSpatialFlagsObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_INCLASS \
+private: \
+	static void StaticRegisterNativesUChildOfNoSpatialFlagsObjectStub(); \
+	friend struct Z_Construct_UClass_UChildOfNoSpatialFlagsObjectStub_Statics; \
+public: \
+	DECLARE_CLASS(UChildOfNoSpatialFlagsObjectStub, UNoSpatialFlagsObjectStub, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UChildOfNoSpatialFlagsObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UChildOfNoSpatialFlagsObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UChildOfNoSpatialFlagsObjectStub) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UChildOfNoSpatialFlagsObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UChildOfNoSpatialFlagsObjectStub); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UChildOfNoSpatialFlagsObjectStub(UChildOfNoSpatialFlagsObjectStub&&); \
+	NO_API UChildOfNoSpatialFlagsObjectStub(const UChildOfNoSpatialFlagsObjectStub&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UChildOfNoSpatialFlagsObjectStub(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UChildOfNoSpatialFlagsObjectStub(UChildOfNoSpatialFlagsObjectStub&&); \
+	NO_API UChildOfNoSpatialFlagsObjectStub(const UChildOfNoSpatialFlagsObjectStub&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UChildOfNoSpatialFlagsObjectStub); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UChildOfNoSpatialFlagsObjectStub); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UChildOfNoSpatialFlagsObjectStub)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_51_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_54_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class UChildOfNoSpatialFlagsObjectStub>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActor(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActor_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActor, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActor)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_INCLASS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActor(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActor_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActor, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActor)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActor) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActor); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActor); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActor(ASpatialTypeActor&&); \
+	NO_API ASpatialTypeActor(const ASpatialTypeActor&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActor(ASpatialTypeActor&&); \
+	NO_API ASpatialTypeActor(const ASpatialTypeActor&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActor); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActor); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActor)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_57_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_60_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class ASpatialTypeActor>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesANonSpatialTypeActor(); \
+	friend struct Z_Construct_UClass_ANonSpatialTypeActor_Statics; \
+public: \
+	DECLARE_CLASS(ANonSpatialTypeActor, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ANonSpatialTypeActor)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_INCLASS \
+private: \
+	static void StaticRegisterNativesANonSpatialTypeActor(); \
+	friend struct Z_Construct_UClass_ANonSpatialTypeActor_Statics; \
+public: \
+	DECLARE_CLASS(ANonSpatialTypeActor, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ANonSpatialTypeActor)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ANonSpatialTypeActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ANonSpatialTypeActor) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ANonSpatialTypeActor); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ANonSpatialTypeActor); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ANonSpatialTypeActor(ANonSpatialTypeActor&&); \
+	NO_API ANonSpatialTypeActor(const ANonSpatialTypeActor&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ANonSpatialTypeActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ANonSpatialTypeActor(ANonSpatialTypeActor&&); \
+	NO_API ANonSpatialTypeActor(const ANonSpatialTypeActor&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ANonSpatialTypeActor); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ANonSpatialTypeActor); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ANonSpatialTypeActor)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_63_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_66_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class ANonSpatialTypeActor>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSpatialTypeActorComponent(); \
+	friend struct Z_Construct_UClass_USpatialTypeActorComponent_Statics; \
+public: \
+	DECLARE_CLASS(USpatialTypeActorComponent, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(USpatialTypeActorComponent)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_INCLASS \
+private: \
+	static void StaticRegisterNativesUSpatialTypeActorComponent(); \
+	friend struct Z_Construct_UClass_USpatialTypeActorComponent_Statics; \
+public: \
+	DECLARE_CLASS(USpatialTypeActorComponent, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(USpatialTypeActorComponent)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USpatialTypeActorComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USpatialTypeActorComponent) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USpatialTypeActorComponent); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USpatialTypeActorComponent); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USpatialTypeActorComponent(USpatialTypeActorComponent&&); \
+	NO_API USpatialTypeActorComponent(const USpatialTypeActorComponent&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USpatialTypeActorComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USpatialTypeActorComponent(USpatialTypeActorComponent&&); \
+	NO_API USpatialTypeActorComponent(const USpatialTypeActorComponent&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USpatialTypeActorComponent); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USpatialTypeActorComponent); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USpatialTypeActorComponent)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_69_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_72_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class USpatialTypeActorComponent>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActorWithActorComponent(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActorWithActorComponent_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActorWithActorComponent, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActorWithActorComponent) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		SpatialActorComponent=NETFIELD_REP_START, \
+		NETFIELD_REP_END=SpatialActorComponent	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_INCLASS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActorWithActorComponent(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActorWithActorComponent_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActorWithActorComponent, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActorWithActorComponent) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		SpatialActorComponent=NETFIELD_REP_START, \
+		NETFIELD_REP_END=SpatialActorComponent	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActorWithActorComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActorWithActorComponent) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActorWithActorComponent); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActorWithActorComponent); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActorWithActorComponent(ASpatialTypeActorWithActorComponent&&); \
+	NO_API ASpatialTypeActorWithActorComponent(const ASpatialTypeActorWithActorComponent&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActorWithActorComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActorWithActorComponent(ASpatialTypeActorWithActorComponent&&); \
+	NO_API ASpatialTypeActorWithActorComponent(const ASpatialTypeActorWithActorComponent&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActorWithActorComponent); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActorWithActorComponent); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActorWithActorComponent)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_75_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_78_ENHANCED_CONSTRUCTORS \
+static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class SpatialTypeActorWithActorComponent."); \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class ASpatialTypeActorWithActorComponent>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActorWithMultipleActorComponents(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActorWithMultipleActorComponents_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActorWithMultipleActorComponents, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActorWithMultipleActorComponents) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		FirstSpatialActorComponent=NETFIELD_REP_START, \
+		SecondSpatialActorComponent, \
+		NETFIELD_REP_END=SecondSpatialActorComponent	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_INCLASS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActorWithMultipleActorComponents(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActorWithMultipleActorComponents_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActorWithMultipleActorComponents, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActorWithMultipleActorComponents) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		FirstSpatialActorComponent=NETFIELD_REP_START, \
+		SecondSpatialActorComponent, \
+		NETFIELD_REP_END=SecondSpatialActorComponent	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActorWithMultipleActorComponents(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActorWithMultipleActorComponents) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActorWithMultipleActorComponents); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActorWithMultipleActorComponents); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActorWithMultipleActorComponents(ASpatialTypeActorWithMultipleActorComponents&&); \
+	NO_API ASpatialTypeActorWithMultipleActorComponents(const ASpatialTypeActorWithMultipleActorComponents&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActorWithMultipleActorComponents(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActorWithMultipleActorComponents(ASpatialTypeActorWithMultipleActorComponents&&); \
+	NO_API ASpatialTypeActorWithMultipleActorComponents(const ASpatialTypeActorWithMultipleActorComponents&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActorWithMultipleActorComponents); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActorWithMultipleActorComponents); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActorWithMultipleActorComponents)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_84_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_87_ENHANCED_CONSTRUCTORS \
+static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class SpatialTypeActorWithMultipleActorComponents."); \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class ASpatialTypeActorWithMultipleActorComponents>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActorWithMultipleObjectComponents(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActorWithMultipleObjectComponents_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActorWithMultipleObjectComponents, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActorWithMultipleObjectComponents) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		FirstSpatialObjectComponent=NETFIELD_REP_START, \
+		SecondSpatialObjectComponent, \
+		NETFIELD_REP_END=SecondSpatialObjectComponent	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_INCLASS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActorWithMultipleObjectComponents(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActorWithMultipleObjectComponents_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActorWithMultipleObjectComponents, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActorWithMultipleObjectComponents) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		FirstSpatialObjectComponent=NETFIELD_REP_START, \
+		SecondSpatialObjectComponent, \
+		NETFIELD_REP_END=SecondSpatialObjectComponent	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActorWithMultipleObjectComponents(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActorWithMultipleObjectComponents) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActorWithMultipleObjectComponents); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActorWithMultipleObjectComponents); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActorWithMultipleObjectComponents(ASpatialTypeActorWithMultipleObjectComponents&&); \
+	NO_API ASpatialTypeActorWithMultipleObjectComponents(const ASpatialTypeActorWithMultipleObjectComponents&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActorWithMultipleObjectComponents(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActorWithMultipleObjectComponents(ASpatialTypeActorWithMultipleObjectComponents&&); \
+	NO_API ASpatialTypeActorWithMultipleObjectComponents(const ASpatialTypeActorWithMultipleObjectComponents&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActorWithMultipleObjectComponents); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActorWithMultipleObjectComponents); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActorWithMultipleObjectComponents)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_96_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_99_ENHANCED_CONSTRUCTORS \
+static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class SpatialTypeActorWithMultipleObjectComponents."); \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class ASpatialTypeActorWithMultipleObjectComponents>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActorWithSubobject(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActorWithSubobject_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActorWithSubobject, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActorWithSubobject) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		SpatialActorSubobject=NETFIELD_REP_START, \
+		NETFIELD_REP_END=SpatialActorSubobject	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_INCLASS \
+private: \
+	static void StaticRegisterNativesASpatialTypeActorWithSubobject(); \
+	friend struct Z_Construct_UClass_ASpatialTypeActorWithSubobject_Statics; \
+public: \
+	DECLARE_CLASS(ASpatialTypeActorWithSubobject, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ASpatialTypeActorWithSubobject) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override; \
+	enum class ENetFields_Private : uint16 \
+	{ \
+		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
+		SpatialActorSubobject=NETFIELD_REP_START, \
+		NETFIELD_REP_END=SpatialActorSubobject	}; \
+	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActorWithSubobject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActorWithSubobject) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActorWithSubobject); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActorWithSubobject); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActorWithSubobject(ASpatialTypeActorWithSubobject&&); \
+	NO_API ASpatialTypeActorWithSubobject(const ASpatialTypeActorWithSubobject&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ASpatialTypeActorWithSubobject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ASpatialTypeActorWithSubobject(ASpatialTypeActorWithSubobject&&); \
+	NO_API ASpatialTypeActorWithSubobject(const ASpatialTypeActorWithSubobject&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ASpatialTypeActorWithSubobject); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASpatialTypeActorWithSubobject); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASpatialTypeActorWithSubobject)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_108_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h_111_ENHANCED_CONSTRUCTORS \
+static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class SpatialTypeActorWithSubobject."); \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class ASpatialTypeActorWithSubobject>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDKEditor_SpatialGDKEditorSchemaGenerator_SchemaGenObjectStub_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

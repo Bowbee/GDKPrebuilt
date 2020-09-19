@@ -1,0 +1,3 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDK\Definitions.SpatialGDK.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\SpatialView/EntityPresenceRecord.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\WorkerSDK\improbable/c_worker.h

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\CodeGenerator\\CodeGenerator.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\CodeGenerator\\CodeGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\CodeGenerator\\CodeGenerator.csproj",
+        "projectName": "CodeGenerator",
+        "projectPath": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\CodeGenerator\\CodeGenerator.csproj",
+        "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\CodeGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

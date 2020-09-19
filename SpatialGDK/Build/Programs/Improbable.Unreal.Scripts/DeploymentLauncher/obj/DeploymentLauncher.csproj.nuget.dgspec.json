@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\DeploymentLauncher\\DeploymentLauncher.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\Common\\Common.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\Common\\Common.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\DeploymentLauncher\\DeploymentLauncher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\DeploymentLauncher\\DeploymentLauncher.csproj",
+        "projectName": "DeploymentLauncher",
+        "projectPath": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\DeploymentLauncher\\DeploymentLauncher.csproj",
+        "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\DeploymentLauncher\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net451"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net451": {
+            "projectReferences": {
+              "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\Common\\Common.csproj": {
+                "projectPath": "D:\\Dev\\UnrealEngine\\Engine\\Plugins\\UnrealGDK\\SpatialGDK\\Build\\Programs\\Improbable.Unreal.Scripts\\Common\\Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net451": {
+          "dependencies": {
+            "Improbable.SpatialOS.Platform": {
+              "target": "Package",
+              "version": "[13.7.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

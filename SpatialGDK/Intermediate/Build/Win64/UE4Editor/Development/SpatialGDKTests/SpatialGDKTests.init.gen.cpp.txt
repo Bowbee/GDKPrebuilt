@@ -1,0 +1,3 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKTests\Definitions.SpatialGDKTests.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

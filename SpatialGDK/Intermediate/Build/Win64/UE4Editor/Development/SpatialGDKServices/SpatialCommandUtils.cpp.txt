@@ -1,0 +1,17 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKServices\Definitions.SpatialGDKServices.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKServices\Public\SpatialCommandUtils.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKServices\Public\SpatialGDKServicesConstants.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKServices\Public\SpatialGDKServicesModule.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKServices\Public\LocalDeploymentManager.h
+D:\Dev\UnrealEngine\Engine\Source\Developer\DirectoryWatcher\Public\FileCache.h
+D:\Dev\UnrealEngine\Engine\Source\Developer\DirectoryWatcher\Public\IDirectoryWatcher.h
+D:\Dev\UnrealEngine\Engine\Source\Developer\DirectoryWatcher\Public\FileCacheUtilities.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKServices\Public\LocalReceptionistProxyServerManager.h

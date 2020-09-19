@@ -1,0 +1,9 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKFunctionalTests\Definitions.SpatialGDKFunctionalTests.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKFunctionalTests/SpatialGDK/UNR-3761/SpatialTestReplicatedStartupActor/ReplicatedStartupActorGameMode.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Dev\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Dev\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKFunctionalTests\ReplicatedStartupActorGameMode.generated.h

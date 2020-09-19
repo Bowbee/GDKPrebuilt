@@ -1,0 +1,13 @@
+{
+	"BuildId": "7d244e2a-97c4-4a90-9192-82b866e0d9da",
+	"Modules": 
+	{
+		"SpatialGDK": "UE4Editor-SpatialGDK.dll",
+		"SpatialGDKEditor": "UE4Editor-SpatialGDKEditor.dll",
+		"SpatialGDKEditorCommandlet": "UE4Editor-SpatialGDKEditorCommandlet.dll",
+		"SpatialGDKEditorToolbar": "UE4Editor-SpatialGDKEditorToolbar.dll",
+		"SpatialGDKFunctionalTests": "UE4Editor-SpatialGDKFunctionalTests.dll",
+		"SpatialGDKServices": "UE4Editor-SpatialGDKServices.dll",
+		"SpatialGDKTests": "UE4Editor-SpatialGDKTests.dll"
+	}
+}

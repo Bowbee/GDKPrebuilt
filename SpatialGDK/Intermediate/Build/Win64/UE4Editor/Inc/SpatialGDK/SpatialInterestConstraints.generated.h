@@ -1,0 +1,903 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef SPATIALGDK_SpatialInterestConstraints_generated_h
+#error "SpatialInterestConstraints.generated.h already included, missing '#pragma once' in SpatialInterestConstraints.h"
+#endif
+#define SPATIALGDK_SpatialInterestConstraints_generated_h
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_23_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FQueryData_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> SPATIALGDK_API UScriptStruct* StaticStruct<struct FQueryData>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAbstractQueryConstraint(); \
+	friend struct Z_Construct_UClass_UAbstractQueryConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UAbstractQueryConstraint, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UAbstractQueryConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_INCLASS \
+private: \
+	static void StaticRegisterNativesUAbstractQueryConstraint(); \
+	friend struct Z_Construct_UClass_UAbstractQueryConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UAbstractQueryConstraint, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UAbstractQueryConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UAbstractQueryConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAbstractQueryConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAbstractQueryConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAbstractQueryConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAbstractQueryConstraint(UAbstractQueryConstraint&&); \
+	NO_API UAbstractQueryConstraint(const UAbstractQueryConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAbstractQueryConstraint(UAbstractQueryConstraint&&); \
+	NO_API UAbstractQueryConstraint(const UAbstractQueryConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAbstractQueryConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAbstractQueryConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UAbstractQueryConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_58_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_61_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class UAbstractQueryConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUOrConstraint(); \
+	friend struct Z_Construct_UClass_UOrConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UOrConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UOrConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_INCLASS \
+private: \
+	static void StaticRegisterNativesUOrConstraint(); \
+	friend struct Z_Construct_UClass_UOrConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UOrConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UOrConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UOrConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOrConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOrConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOrConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UOrConstraint(UOrConstraint&&); \
+	NO_API UOrConstraint(const UOrConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UOrConstraint(UOrConstraint&&); \
+	NO_API UOrConstraint(const UOrConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOrConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOrConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UOrConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_72_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_75_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class UOrConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAndConstraint(); \
+	friend struct Z_Construct_UClass_UAndConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UAndConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UAndConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_INCLASS \
+private: \
+	static void StaticRegisterNativesUAndConstraint(); \
+	friend struct Z_Construct_UClass_UAndConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UAndConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UAndConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UAndConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAndConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAndConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAndConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAndConstraint(UAndConstraint&&); \
+	NO_API UAndConstraint(const UAndConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAndConstraint(UAndConstraint&&); \
+	NO_API UAndConstraint(const UAndConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAndConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAndConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UAndConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_90_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_93_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class UAndConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSphereConstraint(); \
+	friend struct Z_Construct_UClass_USphereConstraint_Statics; \
+public: \
+	DECLARE_CLASS(USphereConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(USphereConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_INCLASS \
+private: \
+	static void StaticRegisterNativesUSphereConstraint(); \
+	friend struct Z_Construct_UClass_USphereConstraint_Statics; \
+public: \
+	DECLARE_CLASS(USphereConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(USphereConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USphereConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USphereConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USphereConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USphereConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USphereConstraint(USphereConstraint&&); \
+	NO_API USphereConstraint(const USphereConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USphereConstraint(USphereConstraint&&); \
+	NO_API USphereConstraint(const USphereConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USphereConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USphereConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USphereConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_108_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_111_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class USphereConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUCylinderConstraint(); \
+	friend struct Z_Construct_UClass_UCylinderConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UCylinderConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UCylinderConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_INCLASS \
+private: \
+	static void StaticRegisterNativesUCylinderConstraint(); \
+	friend struct Z_Construct_UClass_UCylinderConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UCylinderConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UCylinderConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UCylinderConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UCylinderConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UCylinderConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UCylinderConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UCylinderConstraint(UCylinderConstraint&&); \
+	NO_API UCylinderConstraint(const UCylinderConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UCylinderConstraint(UCylinderConstraint&&); \
+	NO_API UCylinderConstraint(const UCylinderConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UCylinderConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UCylinderConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UCylinderConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_130_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_133_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class UCylinderConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUBoxConstraint(); \
+	friend struct Z_Construct_UClass_UBoxConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UBoxConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UBoxConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_INCLASS \
+private: \
+	static void StaticRegisterNativesUBoxConstraint(); \
+	friend struct Z_Construct_UClass_UBoxConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UBoxConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UBoxConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UBoxConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UBoxConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UBoxConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UBoxConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UBoxConstraint(UBoxConstraint&&); \
+	NO_API UBoxConstraint(const UBoxConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UBoxConstraint(UBoxConstraint&&); \
+	NO_API UBoxConstraint(const UBoxConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UBoxConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UBoxConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UBoxConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_152_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_155_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class UBoxConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesURelativeSphereConstraint(); \
+	friend struct Z_Construct_UClass_URelativeSphereConstraint_Statics; \
+public: \
+	DECLARE_CLASS(URelativeSphereConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(URelativeSphereConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_INCLASS \
+private: \
+	static void StaticRegisterNativesURelativeSphereConstraint(); \
+	friend struct Z_Construct_UClass_URelativeSphereConstraint_Statics; \
+public: \
+	DECLARE_CLASS(URelativeSphereConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(URelativeSphereConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API URelativeSphereConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(URelativeSphereConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, URelativeSphereConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URelativeSphereConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API URelativeSphereConstraint(URelativeSphereConstraint&&); \
+	NO_API URelativeSphereConstraint(const URelativeSphereConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API URelativeSphereConstraint(URelativeSphereConstraint&&); \
+	NO_API URelativeSphereConstraint(const URelativeSphereConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, URelativeSphereConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URelativeSphereConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(URelativeSphereConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_174_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_177_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class URelativeSphereConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesURelativeCylinderConstraint(); \
+	friend struct Z_Construct_UClass_URelativeCylinderConstraint_Statics; \
+public: \
+	DECLARE_CLASS(URelativeCylinderConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(URelativeCylinderConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_INCLASS \
+private: \
+	static void StaticRegisterNativesURelativeCylinderConstraint(); \
+	friend struct Z_Construct_UClass_URelativeCylinderConstraint_Statics; \
+public: \
+	DECLARE_CLASS(URelativeCylinderConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(URelativeCylinderConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API URelativeCylinderConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(URelativeCylinderConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, URelativeCylinderConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URelativeCylinderConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API URelativeCylinderConstraint(URelativeCylinderConstraint&&); \
+	NO_API URelativeCylinderConstraint(const URelativeCylinderConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API URelativeCylinderConstraint(URelativeCylinderConstraint&&); \
+	NO_API URelativeCylinderConstraint(const URelativeCylinderConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, URelativeCylinderConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URelativeCylinderConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(URelativeCylinderConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_192_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_195_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class URelativeCylinderConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesURelativeBoxConstraint(); \
+	friend struct Z_Construct_UClass_URelativeBoxConstraint_Statics; \
+public: \
+	DECLARE_CLASS(URelativeBoxConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(URelativeBoxConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_INCLASS \
+private: \
+	static void StaticRegisterNativesURelativeBoxConstraint(); \
+	friend struct Z_Construct_UClass_URelativeBoxConstraint_Statics; \
+public: \
+	DECLARE_CLASS(URelativeBoxConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(URelativeBoxConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API URelativeBoxConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(URelativeBoxConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, URelativeBoxConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URelativeBoxConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API URelativeBoxConstraint(URelativeBoxConstraint&&); \
+	NO_API URelativeBoxConstraint(const URelativeBoxConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API URelativeBoxConstraint(URelativeBoxConstraint&&); \
+	NO_API URelativeBoxConstraint(const URelativeBoxConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, URelativeBoxConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URelativeBoxConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(URelativeBoxConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_210_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_213_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class URelativeBoxConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUCheckoutRadiusConstraint(); \
+	friend struct Z_Construct_UClass_UCheckoutRadiusConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UCheckoutRadiusConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UCheckoutRadiusConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_INCLASS \
+private: \
+	static void StaticRegisterNativesUCheckoutRadiusConstraint(); \
+	friend struct Z_Construct_UClass_UCheckoutRadiusConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UCheckoutRadiusConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UCheckoutRadiusConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UCheckoutRadiusConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UCheckoutRadiusConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UCheckoutRadiusConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UCheckoutRadiusConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UCheckoutRadiusConstraint(UCheckoutRadiusConstraint&&); \
+	NO_API UCheckoutRadiusConstraint(const UCheckoutRadiusConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UCheckoutRadiusConstraint(UCheckoutRadiusConstraint&&); \
+	NO_API UCheckoutRadiusConstraint(const UCheckoutRadiusConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UCheckoutRadiusConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UCheckoutRadiusConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UCheckoutRadiusConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_228_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_231_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class UCheckoutRadiusConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUActorClassConstraint(); \
+	friend struct Z_Construct_UClass_UActorClassConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UActorClassConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UActorClassConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_INCLASS \
+private: \
+	static void StaticRegisterNativesUActorClassConstraint(); \
+	friend struct Z_Construct_UClass_UActorClassConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UActorClassConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UActorClassConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UActorClassConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UActorClassConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UActorClassConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UActorClassConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UActorClassConstraint(UActorClassConstraint&&); \
+	NO_API UActorClassConstraint(const UActorClassConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UActorClassConstraint(UActorClassConstraint&&); \
+	NO_API UActorClassConstraint(const UActorClassConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UActorClassConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UActorClassConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UActorClassConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_250_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_253_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class UActorClassConstraint>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUComponentClassConstraint(); \
+	friend struct Z_Construct_UClass_UComponentClassConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UComponentClassConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UComponentClassConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_INCLASS \
+private: \
+	static void StaticRegisterNativesUComponentClassConstraint(); \
+	friend struct Z_Construct_UClass_UComponentClassConstraint_Statics; \
+public: \
+	DECLARE_CLASS(UComponentClassConstraint, UAbstractQueryConstraint, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDK"), NO_API) \
+	DECLARE_SERIALIZER(UComponentClassConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UComponentClassConstraint(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UComponentClassConstraint) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UComponentClassConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UComponentClassConstraint); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UComponentClassConstraint(UComponentClassConstraint&&); \
+	NO_API UComponentClassConstraint(const UComponentClassConstraint&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UComponentClassConstraint(UComponentClassConstraint&&); \
+	NO_API UComponentClassConstraint(const UComponentClassConstraint&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UComponentClassConstraint); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UComponentClassConstraint); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UComponentClassConstraint)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_272_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h_275_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDK_API UClass* StaticClass<class UComponentClassConstraint>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDK_Public_Interop_SpatialInterestConstraints_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

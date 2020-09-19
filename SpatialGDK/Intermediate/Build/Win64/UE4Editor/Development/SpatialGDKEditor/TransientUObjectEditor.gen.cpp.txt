@@ -1,0 +1,5 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKEditor\Definitions.SpatialGDKEditor.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditor/Public/Utils/TransientUObjectEditor.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKEditor\TransientUObjectEditor.generated.h

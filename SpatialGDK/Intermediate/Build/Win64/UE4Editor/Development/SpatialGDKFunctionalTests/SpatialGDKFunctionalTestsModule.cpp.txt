@@ -1,0 +1,3 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKFunctionalTests\Definitions.SpatialGDKFunctionalTests.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKFunctionalTests\Public\SpatialGDKFunctionalTestsModule.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKFunctionalTests\Private\SpatialGDKFunctionalTestsPrivate.h

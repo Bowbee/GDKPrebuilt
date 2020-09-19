@@ -1,0 +1,6 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKFunctionalTests\Definitions.SpatialGDKFunctionalTests.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKFunctionalTests\SpatialGDK\UNR-3761\SpatialTestNetReference\CubeWithReferences.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKFunctionalTests/SpatialGDK/TestActors/ReplicatedTestActorBase.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKFunctionalTests\ReplicatedTestActorBase.generated.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKFunctionalTests\CubeWithReferences.generated.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h

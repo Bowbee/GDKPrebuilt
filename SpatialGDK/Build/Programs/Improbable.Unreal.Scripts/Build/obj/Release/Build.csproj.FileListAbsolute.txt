@@ -1,0 +1,7 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Binaries\ThirdParty\Improbable\Programs\Build.exe
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Binaries\ThirdParty\Improbable\Programs\Build.pdb
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\Build\obj\Release\Build.csprojAssemblyReference.cache
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\Build\obj\Release\Build.csproj.CoreCompileInputs.cache
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\Build\obj\Release\Build.csproj.CopyComplete
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\Build\obj\Release\Build.exe
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\Build\obj\Release\Build.pdb

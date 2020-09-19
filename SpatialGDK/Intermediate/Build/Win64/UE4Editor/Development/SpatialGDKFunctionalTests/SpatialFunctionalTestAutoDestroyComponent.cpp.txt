@@ -1,0 +1,3 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKFunctionalTests\Definitions.SpatialGDKFunctionalTests.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKFunctionalTests\Public\SpatialFunctionalTestAutoDestroyComponent.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKFunctionalTests\SpatialFunctionalTestAutoDestroyComponent.generated.h

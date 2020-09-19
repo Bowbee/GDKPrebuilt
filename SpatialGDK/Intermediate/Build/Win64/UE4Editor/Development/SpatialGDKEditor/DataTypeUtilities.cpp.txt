@@ -1,0 +1,10 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKEditor\Definitions.SpatialGDKEditor.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditor\Private\SchemaGenerator\Utils\DataTypeUtilities.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditor\Private\SchemaGenerator/TypeStructure.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/RepLayout.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\Utils/GDKPropertyMacros.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditor\Public\SpatialGDKEditorSchemaGenerator.h

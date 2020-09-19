@@ -1,0 +1,9 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKEditorCommandlet\Definitions.SpatialGDKEditorCommandlet.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditorCommandlet/Private/Commandlets/GenerateSchemaAndSnapshotsCommandlet.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKEditorCommandlet\Private\Commandlets\GenerateSchemaCommandlet.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
+D:\Dev\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKEditorCommandlet\GenerateSchemaCommandlet.generated.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKEditorCommandlet\GenerateSchemaAndSnapshotsCommandlet.generated.h

@@ -1,0 +1,243 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef SPATIALGDKTESTS_TestLayeredLBStrategy_generated_h
+#error "TestLayeredLBStrategy.generated.h already included, missing '#pragma once' in TestLayeredLBStrategy.h"
+#endif
+#define SPATIALGDKTESTS_TestLayeredLBStrategy_generated_h
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUTwoByFourLBGridStrategy(); \
+	friend struct Z_Construct_UClass_UTwoByFourLBGridStrategy_Statics; \
+public: \
+	DECLARE_CLASS(UTwoByFourLBGridStrategy, UGridBasedLBStrategy, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UTwoByFourLBGridStrategy)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_INCLASS \
+private: \
+	static void StaticRegisterNativesUTwoByFourLBGridStrategy(); \
+	friend struct Z_Construct_UClass_UTwoByFourLBGridStrategy_Statics; \
+public: \
+	DECLARE_CLASS(UTwoByFourLBGridStrategy, UGridBasedLBStrategy, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(UTwoByFourLBGridStrategy)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UTwoByFourLBGridStrategy(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTwoByFourLBGridStrategy) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UTwoByFourLBGridStrategy); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UTwoByFourLBGridStrategy); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UTwoByFourLBGridStrategy(UTwoByFourLBGridStrategy&&); \
+	NO_API UTwoByFourLBGridStrategy(const UTwoByFourLBGridStrategy&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UTwoByFourLBGridStrategy(UTwoByFourLBGridStrategy&&); \
+	NO_API UTwoByFourLBGridStrategy(const UTwoByFourLBGridStrategy&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UTwoByFourLBGridStrategy); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UTwoByFourLBGridStrategy); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UTwoByFourLBGridStrategy)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_15_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_18_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class UTwoByFourLBGridStrategy>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesALayer1Pawn(); \
+	friend struct Z_Construct_UClass_ALayer1Pawn_Statics; \
+public: \
+	DECLARE_CLASS(ALayer1Pawn, ADefaultPawn, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ALayer1Pawn)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_INCLASS \
+private: \
+	static void StaticRegisterNativesALayer1Pawn(); \
+	friend struct Z_Construct_UClass_ALayer1Pawn_Statics; \
+public: \
+	DECLARE_CLASS(ALayer1Pawn, ADefaultPawn, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ALayer1Pawn)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ALayer1Pawn(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ALayer1Pawn) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ALayer1Pawn); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ALayer1Pawn); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ALayer1Pawn(ALayer1Pawn&&); \
+	NO_API ALayer1Pawn(const ALayer1Pawn&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ALayer1Pawn(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ALayer1Pawn(ALayer1Pawn&&); \
+	NO_API ALayer1Pawn(const ALayer1Pawn&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ALayer1Pawn); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ALayer1Pawn); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ALayer1Pawn)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_31_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_34_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class ALayer1Pawn>();
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_SPARSE_DATA
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_RPC_WRAPPERS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesALayer2Pawn(); \
+	friend struct Z_Construct_UClass_ALayer2Pawn_Statics; \
+public: \
+	DECLARE_CLASS(ALayer2Pawn, ADefaultPawn, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ALayer2Pawn)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_INCLASS \
+private: \
+	static void StaticRegisterNativesALayer2Pawn(); \
+	friend struct Z_Construct_UClass_ALayer2Pawn_Statics; \
+public: \
+	DECLARE_CLASS(ALayer2Pawn, ADefaultPawn, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SpatialGDKTests"), NO_API) \
+	DECLARE_SERIALIZER(ALayer2Pawn)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ALayer2Pawn(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ALayer2Pawn) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ALayer2Pawn); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ALayer2Pawn); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ALayer2Pawn(ALayer2Pawn&&); \
+	NO_API ALayer2Pawn(const ALayer2Pawn&); \
+public:
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ALayer2Pawn(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ALayer2Pawn(ALayer2Pawn&&); \
+	NO_API ALayer2Pawn(const ALayer2Pawn&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ALayer2Pawn); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ALayer2Pawn); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ALayer2Pawn)
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_41_PROLOG
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_RPC_WRAPPERS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_INCLASS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_SPARSE_DATA \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h_44_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SPATIALGDKTESTS_API UClass* StaticClass<class ALayer2Pawn>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Engine_Plugins_UnrealGDK_SpatialGDK_Source_SpatialGDKTests_SpatialGDK_LoadBalancing_LayeredLBStrategy_TestLayeredLBStrategy_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,12 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKTests\Definitions.SpatialGDKTests.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\Tests/TestDefinitions.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Public\Tests/AutomationCommon.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\Utils/GDKPropertyMacros.h

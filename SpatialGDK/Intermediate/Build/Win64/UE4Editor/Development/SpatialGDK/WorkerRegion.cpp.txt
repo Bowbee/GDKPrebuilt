@@ -1,0 +1,10 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDK\Definitions.SpatialGDK.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\LoadBalancing/WorkerRegion.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDK\WorkerRegion.generated.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+D:\Dev\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+D:\Dev\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+D:\Dev\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h

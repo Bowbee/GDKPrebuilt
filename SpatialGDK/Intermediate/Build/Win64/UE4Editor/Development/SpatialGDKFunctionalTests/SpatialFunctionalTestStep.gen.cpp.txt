@@ -1,0 +1,6 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKFunctionalTests\Definitions.SpatialGDKFunctionalTests.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKFunctionalTests/Public/SpatialFunctionalTestStep.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKFunctionalTests\SpatialFunctionalTestStep.generated.h

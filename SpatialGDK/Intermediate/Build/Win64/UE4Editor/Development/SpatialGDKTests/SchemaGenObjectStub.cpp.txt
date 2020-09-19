@@ -1,0 +1,4 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKTests\Definitions.SpatialGDKTests.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKTests\SpatialGDKEditor\SpatialGDKEditorSchemaGenerator\SchemaGenObjectStub.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKTests\SchemaGenObjectStub.generated.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h

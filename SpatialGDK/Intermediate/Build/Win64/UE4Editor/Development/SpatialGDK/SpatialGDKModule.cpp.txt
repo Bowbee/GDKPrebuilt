@@ -1,0 +1,13 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDK\Definitions.SpatialGDK.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\SpatialGDKModule.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\Utils/EngineVersionCheck.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Launch/Resources/SpatialVersion.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\SpatialGDKLoader.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

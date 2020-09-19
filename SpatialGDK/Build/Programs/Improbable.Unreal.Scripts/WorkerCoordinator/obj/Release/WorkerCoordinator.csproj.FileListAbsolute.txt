@@ -1,0 +1,8 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Binaries\ThirdParty\Improbable\Programs\WorkerCoordinator\libimprobable_worker.so
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Binaries\ThirdParty\Improbable\Programs\WorkerCoordinator\WorkerCoordinator.exe
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Binaries\ThirdParty\Improbable\Programs\WorkerCoordinator\WorkerCoordinator.pdb
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\WorkerCoordinator\obj\Release\WorkerCoordinator.csprojAssemblyReference.cache
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\WorkerCoordinator\obj\Release\WorkerCoordinator.csproj.CoreCompileInputs.cache
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\WorkerCoordinator\obj\Release\WorkerCoordinator.csproj.CopyComplete
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\WorkerCoordinator\obj\Release\WorkerCoordinator.exe
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Build\Programs\Improbable.Unreal.Scripts\WorkerCoordinator\obj\Release\WorkerCoordinator.pdb

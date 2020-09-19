@@ -1,0 +1,4 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDKFunctionalTests\Definitions.SpatialGDKFunctionalTests.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDKFunctionalTests\SpatialGDK\UNR-3066\OwnerOnlyTestPawn.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Inc\SpatialGDKFunctionalTests\OwnerOnlyTestPawn.generated.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h

@@ -1,0 +1,10 @@
+// Copyright (c) Improbable Worlds Ltd, All Rights Reserved
+package unreal;
+
+component AlwaysRelevant {
+    id = 9983;
+}
+
+component Dormant {
+    id = 9981;
+}

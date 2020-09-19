@@ -1,0 +1,13 @@
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Intermediate\Build\Win64\UE4Editor\Development\SpatialGDK\Definitions.SpatialGDK.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\Tests/TestDefinitions.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\Dev\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\SpatialView/AuthorityRecord.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\SpatialView/EntityComponentId.h
+D:\Dev\UnrealEngine\Engine\Plugins\UnrealGDK\SpatialGDK\Source\SpatialGDK\Public\WorkerSDK\improbable/c_worker.h
