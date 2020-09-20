@@ -51,7 +51,7 @@ namespace Improbable
             dynamic projectJson = JObject.Parse(uproject);
             string engineAssociation = projectJson.EngineAssociation;
 
-            Console.WriteLine("Engine Association: " + engineAssociation);
+            Console.WriteLine("Engine Association test: " + engineAssociation);
 
             string unrealEngine = "";
 
